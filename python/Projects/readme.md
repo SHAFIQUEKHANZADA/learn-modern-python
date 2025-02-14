@@ -10,7 +10,7 @@
 
 [Project 6: Countdown Timer Python Project](https://colab.research.google.com/drive/1WYtKOo7_Kxgw4PKuXdu8yHYGRLYPE_lP?usp=sharing)
 
-[Project 7: Password Generator Python Project]()
+[Project 7: Password Generator Python Project](https://colab.research.google.com/drive/1jgqEjIxfjfZr0Ml81MJSWbP3RcufVMoA?usp=sharing)
 
 [Project 8: Create a Python Streamlit BMI Calculator Web App in Just 6 Minutes]()
 
