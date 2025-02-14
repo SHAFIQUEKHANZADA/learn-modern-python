@@ -8,4 +8,6 @@
 
 # [Lesson 05 - Lists, Tuples & Dictionary](https://colab.research.google.com/drive/1_pJrMTQMCBr8XHGEgxpbPNQIeyMpOKZ4?usp=sharing)
 
+# [Lesson 06 - The Set, Frozenset & GC](https://colab.research.google.com/drive/1q8xYFk_sT9kfi-c3RYPk9U5ACju4ouvO?usp=sharing)
+
  
