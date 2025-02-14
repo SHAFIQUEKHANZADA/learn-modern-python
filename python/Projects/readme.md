@@ -12,6 +12,6 @@
 
 [Project 7: Password Generator Python Project](https://colab.research.google.com/drive/1jgqEjIxfjfZr0Ml81MJSWbP3RcufVMoA?usp=sharing)
 
-[Project 8: Create a Python Streamlit BMI Calculator Web App in Just 6 Minutes]()
+[Project 8: Create a Python Streamlit BMI Calculator Web App in Just 6 Minutes](https://colab.research.google.com/drive/1I5wfa7ZLl3fVnZAtM-GE7ripqfNH9EHt?usp=sharing)
 
 [Project 9: Build a Python Website in 15 Minutes With Streamlit]()
