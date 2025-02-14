@@ -6,4 +6,6 @@
 
 # [Lesson 04 - Control Flow & Loops](https://colab.research.google.com/drive/1IWK3vtsQ2PLqyhI_QNV_ri_WaxzVNxIn?usp=sharing)
 
+# [Lesson 05 - Lists, Tuples & Dictionary](https://colab.research.google.com/drive/1_pJrMTQMCBr8XHGEgxpbPNQIeyMpOKZ4?usp=sharing)
+
  
