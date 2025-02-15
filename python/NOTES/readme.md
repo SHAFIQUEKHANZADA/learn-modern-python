@@ -10,4 +10,6 @@
 
 # [Lesson 06 - The Set, Frozenset & GC](https://colab.research.google.com/drive/1q8xYFk_sT9kfi-c3RYPk9U5ACju4ouvO?usp=sharing)
 
+# [Lesson 07 - Functions & Exception Handling](https://colab.research.google.com/drive/1tS2Efu1_9PdXXfg7qVOTk9Wng2nsTJA8?usp=sharing)
+
  
